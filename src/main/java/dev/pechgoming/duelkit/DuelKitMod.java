@@ -16,7 +16,6 @@ import net.minecraft.network.packet.s2c.play.TitleS2CPacket;
 import net.minecraft.network.packet.s2c.play.SubtitleS2CPacket;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.damage.DamageSource;
-import net.minecraft.entity.PositionFlag;
 
 import com.mojang.brigadier.arguments.StringArgumentType;
 
